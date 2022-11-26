@@ -1,2 +1,2 @@
-public class osman {
+public class osman {oooos
 }
